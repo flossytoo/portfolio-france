@@ -22,6 +22,6 @@ Le projet comprenait :
 - Création de la nouvelle base de données en SQLite
 - Analyse des données immobilières en SQLite
 
-#### Voir l'analyse [ICI](https://flossytoo.github.io/portfolio/Project_3/analysis.pdf)
+#### Voir l'analyse [ICI](https://flossytoo.github.io/portfolio-france/projet_3/Immobilier.pdf)
 
-#### Voir le schéma de la base de données [ICI](https://flossytoo.github.io/portfolio/Project_3/schema.png)
+#### Voir le schéma de la base de données [ICI](https://flossytoo.github.io/portfolio-france/projet_3/Schema.png)
