@@ -1,4 +1,5 @@
 # Étude de marché pour une entreprise agroalimentaire cherchant à s'étendre à l'international
+
 ![Étude de marché - page de titre](../images_france/P9.png)
 
 #### Compétences techniques : Excel, bibliothèques Python (ScikitLearn, Scipy, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
