@@ -1,7 +1,7 @@
 # Étude de santé publique sur la nutrition dans le monde
 #### Compétences techniques : Excel, bibliothèques Python (Pandas, Matplotlib, Seaborn), PowerPoint
 
-Pour ce projet, j'ai joué le rôle d'un analyste de données pour l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO). L'organisation a pour objectif de contribuer à bâtir un monde sans faim.
+Pour ce projet, j'ai joué le rôle d'une analyste de données pour l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO). L'organisation a pour objectif de contribuer à bâtir un monde sans faim.
 
 Pour ce projet, on m'a demandé d'effectuer une étude à grande échelle sur le thème de l'alimentation et, plus précisément, de la sous-alimentation dans le monde.
 
