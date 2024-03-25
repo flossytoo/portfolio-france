@@ -1,4 +1,6 @@
 # Étude de marché pour une entreprise agroalimentaire cherchant à s'étendre à l'international
+![Étude de marché - page de titre](../images_france/P9.png)
+
 #### Compétences techniques : Excel, bibliothèques Python (ScikitLearn, Scipy, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
 
 Pour ce projet, j'ai joué le rôle d'une analyste de données travaillant pour une entreprise agroalimentaire française spécialisée dans la vente de produits de poulet. L'entreprise était prospère et cherchait à s'étendre à l'international, mais ne savait pas quels étaient les régions et les pays à cibler pour son expansion internationale.
