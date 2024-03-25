@@ -12,7 +12,7 @@ Pour la 1ère partie, on m'a demandé de sélectionner 5 graphiques parmi une va
 
 De plus, on m'a demandé d'expliquer d'où provient la baisse de chiffre d'affaires et comment la situation évoluerait dans les mois à venir.
 
-Pour la deuxième partie du projet, on m'a demandé de travailler dans Excel pour mettre à jour les chiffres de chiffre d'affaires, ajouter les données du mois le plus récent, et :
+Pour la deuxième partie du projet, on m'a demandé de travailler avec Excel pour mettre à jour les chiffres de chiffre d'affaires, ajouter les données du mois le plus récent, et :
 - Créer 4 graphiques dans la feuille de tableau de bord,
 - Mettre à jour le premier graphique (déjà créé) avec les données du mois le plus récent
 - Créer un tableau récapitulatif pour chaque client, le nombre d'achats et le chiffre d'affaires total dans la feuille 2.
