@@ -1,4 +1,6 @@
 # Création d'une base de données pour les données immobilières avec SQL
+![Real estate angency analysis cover page](images_english/P3.png)
+
 #### Compétences techniques : Excel, draw.io, PowerQuery, SQLite, Word
 
 Pour ce projet, j'ai joué le rôle d'une analyste de données travaillant pour "Laplace Immo" - un réseau national d'agences immobilières.
