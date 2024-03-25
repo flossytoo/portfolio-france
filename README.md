@@ -12,7 +12,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Utiliser le clustering k-means
 > - Déterminer le meilleur modèle d'apprentissage automatique et prédire avec succès si les billets de banque sont réels ou faux
 >  
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_10/banknotes)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_10/billets)
 
 #### Étude de marché pour une entreprise alimentaire cherchant à s'implanter à l'international
 > Étapes clés
@@ -23,7 +23,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Effectuer une Analyse en Composantes Principales
 > - Identifier les meilleurs pays pour une expansion internationale
 >
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_9/chicken)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_9/poulet)
 
 #### Étude sur le développement de l'eau dans le monde
 > Étapes clés
@@ -32,7 +32,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Créer une histoire Tableau avec des tableaux de bord aux niveaux mondial, régional et national
 > - Déterminer les meilleurs pays pour la création de services d'eau, l'amélioration des services d'eau et les services de conseil
 >
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_8/water)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_8/eau_potable)
 
 #### Analyse des indicateurs d'égalité des sexes au sein d'une entreprise
 > Étapes clés
@@ -40,7 +40,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Créer des graphiques montrant les indicateurs d'égalité à l'aide de KNIME
 > - Analyser les principales conclusions afin de fournir des informations exploitables
 > 
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_7/gender_equality)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_7/femme_homme)
 
 #### Analyse des ventes pour un vendeur de livres en ligne
 > Étapes clés
@@ -49,7 +49,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Examiner les corrélations entre les données démographiques des clients et les indicateurs de ventes (sexe et catégorie de livre, âge et dépenses totales, âge et nombre d'achats, âge et taille du panier, âge et catégorie de livre acheté)
 > - Analyser les principales conclusions afin de fournir des informations exploitables
 >  
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_6/bookstore)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_6/ventes_librairie)
 
 #### Optimisation de la gestion des données pour un vendeur de vin
 > Étapes clés
@@ -60,7 +60,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Identifier les produits les plus chers
 > - Analyser les principales conclusions afin de fournir des informations exploitables
 >  
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_5/wine_sales)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_5/ventes_vins)
 
 #### Étude de santé publique sur la nutrition dans le monde
 > Étapes clés
@@ -71,7 +71,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Analyser l'utilisation du manioc en Thaïlande
 > - Analyser les principales conclusions afin de fournir des informations exploitables
 >  
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_4/nutrition)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_4/nutrition)
 
 #### Création d'une base de données pour les données immobilières avec SQL
 > Étapes clés
@@ -80,7 +80,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Charger les données dans une base de données et créer des tables
 > - Effectuer des requêtes SQL pour répondre aux problèmes commerciaux
 >
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_3/real_estate)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_3/immobilier)
 
 #### Analyse des ventes pour une plateforme de commerce électronique
 > Étapes clés
@@ -88,5 +88,5 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > - Interpréter les informations fournies par un tableau de bord
 > - Résumer les résultats afin de fournir des informations exploitables
 >
-> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio/Project_2/sales_analysis)
+> #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_2/analyse_ventes)
 
