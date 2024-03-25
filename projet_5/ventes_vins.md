@@ -1,7 +1,7 @@
 # Optimisation de la gestion des données pour un vendeur de vin
 #### Compétences techniques : Excel, bibliothèques Python (Pandas, NumPy, Matplotlib, Seaborn, OpenPyXL), PowerPoint
 
-Pour ce projet, j'ai joué le rôle d'un analyste de données travaillant pour un vendeur de vin nommé BottleNeck. Pour gérer les données sur leurs ressources, leurs clients, etc., ils utilisaient un système de planification des ressources de l'entreprise (ERP). Cependant, ce système n'était pas lié à leur site Web, où de nombreuses ventes sont effectuées, ce qui rendait difficile l'analyse des données.
+Pour ce projet, j'ai joué le rôle d'une analyste de données travaillant pour un vendeur de vin nommé BottleNeck. Pour gérer les données sur leurs ressources, leurs clients, etc., ils utilisaient un système de planification des ressources de l'entreprise (ERP). Cependant, ce système n'était pas lié à leur site Web, où de nombreuses ventes sont effectuées, ce qui rendait difficile l'analyse des données.
 
 En attendant une solution plus centralisée, on m'a chargé de créer un lien entre les deux bases de données.
 - Données ERP avec les identifiants de produit, les prix des produits et des informations sur la disponibilité des produits en stock
