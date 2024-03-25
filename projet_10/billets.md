@@ -1,4 +1,5 @@
 # Détection de faux billets à l'aide de l'apprentissage automatique
+![Faux billets - page de titre](../images_france/P10.png)
 #### Compétences techniques : Excel, bibliothèques Python (ScikitLearn, Statsmodels, Pandas, NumPy, Seaborn, MatplotLib, Plotly), PowerPoint
 
 Pour ce projet, j'ai joué le rôle d'une consultante en analyse de données et j'ai aidé l'Organisation Nationale de Lutte contre la Contrefaçon. L'organisation avait remarqué une différence en termes de dimensions entre les vrais et les faux billets de banque et m'a donc demandé de développer un algorithme pour détecter les faux billets de banque en se basant sur ces dimensions.
