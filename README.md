@@ -6,6 +6,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 ## Mon Portfolio 
 ### <span style="color:#9932CC;">Openclassrooms</span>
 #### Détection des faux billets de banque à l'aide de l'apprentissage automatique
+![Faux billets - page de titre](images_france/P10.png)
 > Étapes clés
 > - Créer une régression linéaire pour imputer les données manquantes
 > - Créer des régressions logistiques avec Statsmodels et Scikit-Learn
@@ -15,6 +16,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_10/billets)
 
 #### Étude de marché pour une entreprise alimentaire cherchant à s'implanter à l'international
+![Étude de marché - page de titre](images_france/P9.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire des données fournies
 > - Fusionner les ensembles de données
@@ -26,6 +28,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_9/poulet)
 
 #### Étude sur le développement de l'eau dans le monde
+![Étude sur l'eau potable - page de titre](images_france/P8.png)
 > Étapes clés
 > - Élaborer un plan détaillant les indicateurs clés et les graphiques requis
 > - Développer une maquette de tableaux de bord aux niveaux mondial, régional et national
@@ -35,6 +38,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_8/eau_potable)
 
 #### Analyse des indicateurs d'égalité des sexes au sein d'une entreprise
+![Étude sur l'égalité - page de titre](images_france/P7.png)
 > Étapes clés
 > - Préparer les données dans KNIME, en respectant les règles du RGPD
 > - Créer des graphiques montrant les indicateurs d'égalité à l'aide de KNIME
@@ -43,6 +47,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_7/femme_homme)
 
 #### Analyse des ventes pour un vendeur de livres en ligne
+![Librairie analyse des ventes - page de titre](images_france/P6.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire des données fournies
 > - Examiner les indicateurs de ventes (évolution du chiffre d'affaires au fil du temps, chiffre d'affaires par catégorie, ventes de produits, données démographiques des clients, dépenses des clients, et les 10 principaux clients par achats et ventes)
@@ -52,6 +57,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_6/ventes_librairie)
 
 #### Optimisation de la gestion des données pour un vendeur de vin
+![Gestion des données - page de titre](images_france/P5.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire
 > - Fusionner les fichiers
@@ -63,6 +69,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_5/ventes_vins)
 
 #### Étude de santé publique sur la nutrition dans le monde
+![Étude de santé publique - page de titre](images_france/P4.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire
 > - Identifier la proportion de personnes sous-alimentées et le nombre théorique de personnes pouvant être nourries en fonction des calories disponibles dans le monde
@@ -74,6 +81,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_4/nutrition)
 
 #### Création d'une base de données pour les données immobilières avec SQL
+![Analyse de données immmobilières - page de titre](images_france/P3.png)
 > Étapes clés
 > - Créer un dictionnaire de données
 > - Créer un schéma de base de données
@@ -83,6 +91,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_3/immobilier)
 
 #### Analyse des ventes pour une plateforme de commerce électronique
+![Analyse des ventes - page de titre](images_france/P2.png)
 > Étapes clés
 > - Générer des graphiques dans Excel en fonction des types de données
 > - Interpréter les informations fournies par un tableau de bord
