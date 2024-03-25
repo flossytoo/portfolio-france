@@ -4,7 +4,6 @@
 Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérience internationale dans des rôles axés sur la recherche, collaborant avec des organisations basées aux États-Unis, en Nouvelle-Zélande et à Londres. Récemment diplômée d'une licence en Analyse de Données et à la recherche d'un poste qui me permettra de valoriser mon diplôme et mon expérience antérieure en recherche et analyse de marché
 
 # Mon Portfolio 
-## Openclassrooms
 ### Détection des faux billets de banque à l'aide de l'apprentissage automatique 
 ![Faux billets - page de titre](images_france/P10.png)
 > Étapes clés
