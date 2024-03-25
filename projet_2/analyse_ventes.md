@@ -1,5 +1,5 @@
 # Analyse des ventes pour une plateforme de commerce électronique
-![Ecommerce sales analysis cover page](../images_english/P2.png)
+![Ecommerce sales analysis cover page](../images_france/P2.png)
 
 #### Compétences techniques - Excel, PowerPoint
 
