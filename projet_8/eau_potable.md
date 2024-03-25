@@ -1,4 +1,6 @@
 # Étude sur le développement mondial de l'eau
+![Étude sur l'eau potable - page de titre](../images_france/P8.png)
+
 #### Compétences techniques : Excel, Tableau, Figma, PowerPoint, Word
 
 Pour ce projet, j'ai joué le rôle d'une analyste de données travaillant pour l'ONG « Drinking Water For ALL » (DWFA), qui a pour objectif de fournir un accès à l'eau potable à tout le monde dans le monde.
