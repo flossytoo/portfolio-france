@@ -5,7 +5,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 
 ## Mon Portfolio 
 ### <span style="color:#9932CC;">Openclassrooms</span>
-#### Détection des faux billets de banque à l'aide de l'apprentissage automatique
+#### Détection des faux billets de banque à l'aide de l'apprentissage automatique 
 ![Faux billets - page de titre](images_france/P10.png)
 > Étapes clés
 > - Créer une régression linéaire pour imputer les données manquantes
