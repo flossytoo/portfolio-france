@@ -1,7 +1,7 @@
 # Analyste de données néo-zélandaise vivant en France
 #### Compétences techniques : Python, SQL, PowerBI, Tableau, Excel
 
-Professionnel enthousiaste, curieux et analytique, avec neuf ans d'expérience internationale dans des rôles axés sur la recherche, collaborant avec des organisations basées aux États-Unis, en Nouvelle-Zélande et à Londres. Récemment diplômé d'une licence en Analyse de Données et à la recherche d'un poste qui me permettra de valoriser mon diplôme et mon expérience antérieure en recherche et analyse de marché.
+Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérience internationale dans des rôles axés sur la recherche, collaborant avec des organisations basées aux États-Unis, en Nouvelle-Zélande et à Londres. Récemment diplômée d'une licence en Analyse de Données et à la recherche d'un poste qui me permettra de valoriser mon diplôme et mon expérience antérieure en recherche et analyse de marché
 
 ## Mon Portfolio 
 ### <span style="color:#9932CC;">Openclassrooms</span>
