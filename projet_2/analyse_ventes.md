@@ -1,4 +1,6 @@
 # Analyse des ventes pour une plateforme de commerce électronique
+![Ecommerce sales analysis cover page](../images_english/P2.png)
+
 #### Compétences techniques - Excel, PowerPoint
 
 Pour ce projet, j'ai joué le rôle d'une analyste de données junior travaillant pour une plateforme de commerce électronique vendant une variété de produits. L'entreprise gère un entrepôt et livre les commandes passées par les clients sur son site Web à domicile. Ce projet m'a demandé de travailler sur un rapport mensuel sur les ventes et le marketing, composé de 2 parties.
