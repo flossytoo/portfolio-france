@@ -1,7 +1,7 @@
 # Analyse des ventes pour une librairie en ligne
 #### Compétences techniques : Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy), PowerPoint
 
-Pour ce projet, j'ai joué le rôle d'un analyste de données travaillant pour un vendeur de livres appelé Lapage. Lapage était à l'origine une librairie physique avec plusieurs points de vente, mais en raison de ventes importantes et de l'enthousiasme de ses clients, il y a deux ans, il a décidé de créer un site Web et de vendre des produits là-bas également.
+Pour ce projet, j'ai joué le rôle d'une analyste de données travaillant pour une librairie appelé Lapage. Lapage était à l'origine une librairie physique avec plusieurs points de vente, mais en raison de ventes importantes et de l'enthousiasme de ses clients, il y a deux ans, il a décidé de créer un site Web et de vendre des produits là-bas également.
 
 Ils souhaitaient maintenant faire le bilan des différents indicateurs et chiffres clés de l'entreprise. Cela leur permettrait ensuite de décider des stratégies futures - par exemple, décider s'ils devaient créer certaines offres, adapter certains prix ou cibler un certain type de clientèle, etc.
 
