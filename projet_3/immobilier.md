@@ -1,5 +1,5 @@
 # Création d'une base de données pour les données immobilières avec SQL
-![Real estate angency analysis cover page](../images_english/P3.png)
+![Real estate angency analysis cover page](../images_france/P3.png)
 
 #### Compétences techniques : Excel, draw.io, PowerQuery, SQLite, Word
 
