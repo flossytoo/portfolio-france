@@ -3,9 +3,9 @@
 
 Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérience internationale dans des rôles axés sur la recherche, collaborant avec des organisations basées aux États-Unis, en Nouvelle-Zélande et à Londres. Récemment diplômée d'une licence en Analyse de Données et à la recherche d'un poste qui me permettra de valoriser mon diplôme et mon expérience antérieure en recherche et analyse de marché
 
-## Mon Portfolio 
-### <span style="color:#9932CC;">Openclassrooms</span>
-#### Détection des faux billets de banque à l'aide de l'apprentissage automatique 
+# Mon Portfolio 
+## Openclassrooms
+### Détection des faux billets de banque à l'aide de l'apprentissage automatique 
 ![Faux billets - page de titre](images_france/P10.png)
 > Étapes clés
 > - Créer une régression linéaire pour imputer les données manquantes
@@ -15,7 +15,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >  
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_10/billets)
 
-#### Étude de marché pour une entreprise alimentaire cherchant à s'implanter à l'international
+### Étude de marché pour une entreprise alimentaire cherchant à s'implanter à l'international
 ![Étude de marché - page de titre](images_france/P9.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire des données fournies
@@ -27,7 +27,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_9/poulet)
 
-#### Étude sur le développement de l'eau dans le monde
+### Étude sur le développement de l'eau dans le monde
 ![Étude sur l'eau potable - page de titre](images_france/P8.png)
 > Étapes clés
 > - Élaborer un plan détaillant les indicateurs clés et les graphiques requis
@@ -37,7 +37,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_8/eau_potable)
 
-#### Analyse des indicateurs d'égalité des sexes au sein d'une entreprise
+### Analyse des indicateurs d'égalité des sexes au sein d'une entreprise
 ![Étude sur l'égalité - page de titre](images_france/P7.png)
 > Étapes clés
 > - Préparer les données dans KNIME, en respectant les règles du RGPD
@@ -46,7 +46,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 > 
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_7/femme_homme)
 
-#### Analyse des ventes pour un vendeur de livres en ligne
+### Analyse des ventes pour un vendeur de livres en ligne
 ![Librairie analyse des ventes - page de titre](images_france/P6.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire des données fournies
@@ -56,7 +56,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >  
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_6/ventes_librairie)
 
-#### Optimisation de la gestion des données pour un vendeur de vin
+### Optimisation de la gestion des données pour un vendeur de vin
 ![Gestion des données - page de titre](images_france/P5.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire
@@ -68,7 +68,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >  
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_5/ventes_vins)
 
-#### Étude de santé publique sur la nutrition dans le monde
+### Étude de santé publique sur la nutrition dans le monde
 ![Étude de santé publique - page de titre](images_france/P4.png)
 > Étapes clés
 > - Préparer, nettoyer et effectuer une analyse exploratoire
@@ -80,7 +80,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >  
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_4/nutrition)
 
-#### Création d'une base de données pour les données immobilières avec SQL
+### Création d'une base de données pour les données immobilières avec SQL
 ![Analyse de données immmobilières - page de titre](images_france/P3.png)
 > Étapes clés
 > - Créer un dictionnaire de données
@@ -90,7 +90,7 @@ Professionnelle enthousiaste, curieuse et analytique, avec neuf ans d'expérienc
 >
 > #### En savoir plus sur le projet [ICI](https://flossytoo.github.io/portfolio-france/projet_3/immobilier)
 
-#### Analyse des ventes pour une plateforme de commerce électronique
+### Analyse des ventes pour une plateforme de commerce électronique
 ![Analyse des ventes - page de titre](images_france/P2.png)
 > Étapes clés
 > - Générer des graphiques dans Excel en fonction des types de données
