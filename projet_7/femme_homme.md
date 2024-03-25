@@ -9,4 +9,4 @@ De plus, en France, les entreprises de plus de 50 employés doivent produire un 
 
 On m'a donc demandé d'utiliser KNIME, un outil d'analyse de données open source, pour préparer un flux de travail avec des graphiques pour différents indicateurs d'égalité, ainsi qu'un fichier csv prêt à être utilisé pour toute analyse future, et ensuite de rapporter les résultats de l'analyse des indicateurs d'égalité.
 
-#### Voir le rapport final [ICI](https://flossytoo.github.io/portfolio-france/projet_7/indicateurs_femme_homme.pdf
+#### Voir le rapport final [ICI](https://flossytoo.github.io/portfolio-france/projet_7/indicateurs_femme_homme.pdf)
